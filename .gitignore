@@ -1,0 +1,7 @@
+# Finder droppings, in any directory
+.DS_Store
+
+# Ignore user-specific workspace settings
+**/xcuserdata/**
+*/xcuserdata/**
+project.xcworkspace/
